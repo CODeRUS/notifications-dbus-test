@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=notifications-dbus-test
+Exec=notifications-dbus-test
+Name=notifications-dbus-test

@@ -1,0 +1,4 @@
+[D-BUS Service]
+Interface=/com/example/service
+Name=com.example.service
+Exec=/usr/bin/invoker --type=silica-qt5 --desktop-file=notifications-dbus-test.desktop -s /usr/bin/notifications-dbus-test
